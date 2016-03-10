@@ -16,10 +16,14 @@ HTML Help consists of an online Help Viewer, related help components, and help a
 
 *Important* Please note that the latest version of the HTML Help technology is 1.4, as is the SDK. The latest version of the HTML Help Workshop download is 1.3. As of March 2012 there is no HTML Help Workshop 1.4.</description>
     <projectUrl>https://msdn.microsoft.com/en-us/library/windows/desktop/ms670169%28v=vs.85%29.aspx</projectUrl>
+    <packageSourceUrl>https://github.com/dwickern/chocolatey-packages/tree/master/html-help-workshop</packageSourceUrl>
+    <docsUrl>https://msdn.microsoft.com/en-us/library/ms670168%28v=vs.85%29.aspx</docsUrl>
     <tags>documentation html help workshop chm sandcastle admin</tags>
     <copyright>Microsoft (c) 1997-2016</copyright>
     <licenseUrl>https://msdn.microsoft.com/en-us/library/windows/desktop/ms669979%28v=vs.85%29.aspx</licenseUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <iconUrl>https://cdn.rawgit.com/dwickern/chocolatey-packages/748db2175b61ce634a385d33669b7300a19ddd9e/html-help-workshop/icon48.png</iconUrl>
+    <releaseNotes>https://msdn.microsoft.com/en-us/library/ms644641%28v=vs.85%29.aspx</releaseNotes>
   </metadata>
   <files>
     <file src="tools\**" target="tools" />
