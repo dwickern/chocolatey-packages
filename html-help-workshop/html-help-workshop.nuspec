@@ -4,7 +4,7 @@
   <metadata>
     <id>html-help-workshop</id>
     <title>HTML Help Workshop</title>
-    <version>1.32</version>
+    <version>1.32.1</version>
     <authors>Microsoft</authors>
     <owners>Derek Wickern</owners>
     <summary>Microsoft HTML Help is the standard help system for the Windows platform. Authors can use HTML Help to create online help for a software application or to create content for a multimedia title or Web site. Developers can use the HTML Help API to program a host application or hook up context-sensitive help to an application.</summary>
