@@ -8,7 +8,9 @@
     <authors>Microsoft</authors>
     <owners>Derek Wickern</owners>
     <summary>Microsoft HTML Help is the standard help system for the Windows platform. Authors can use HTML Help to create online help for a software application or to create content for a multimedia title or Web site. Developers can use the HTML Help API to program a host application or hook up context-sensitive help to an application.</summary>
-    <description>As an information delivery system, HTML Help is suited for a wide range of applications, including training guides, interactive books, and electronic newsletters, as well as help for software applications.
+    <description>UPDATE: The official Microsoft download link for HTML Help Workshop is no longer online. Since version 1.32.1, this package downloads from archive.org.
+
+As an information delivery system, HTML Help is suited for a wide range of applications, including training guides, interactive books, and electronic newsletters, as well as help for software applications.
 
 HTML Help offers some distinct advantages over standard HTML, such as the ability to implement a combined table of contents and index and the use of keywords for advanced hyperlinking capability. The HTML Help compiler (part of the HTML Help Workshop) makes it possible to compress HTML, graphic, and other files into a relatively small compiled help (.chm) file, which can then be distributed with a software application, or downloaded from the Web.
 
